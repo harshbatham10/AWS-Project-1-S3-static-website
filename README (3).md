@@ -83,12 +83,12 @@ This project shows how to host a static website (HTML + CSS) without any server,
 
 | Step | Screenshot |
 |------|-----------|
-| Bucket created | ![Bucket](screenshots/01-bucket-created.png) |
-| Files uploaded | ![Objects](screenshots/02-objects-uploaded.png) |
-| Static website hosting enabled | ![Hosting](screenshots/03-enable-hosting.png) |
-| Make objects public | ![Public](screenshots/04-make-public.png) |
-| Website endpoint | ![Endpoint](screenshots/05-website-endpoint.png) |
-| Live website | ![Website](screenshots/06-live-website.png) |
+| Bucket created | 
+| Files uploaded | 
+| Static website hosting enabled |
+| Make objects public | 
+| Website endpoint | 
+| Live website |
 
 ---
 
