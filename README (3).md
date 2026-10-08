@@ -96,6 +96,10 @@ This project shows how to host a static website (HTML + CSS) without any server,
 
 ![image alt](https://github.com/harshbatham10/AWS-Project-1-S3-static-website/blob/761b4386bd4ce4a43a88a1d88566afe28a98c91b/Screenshot%20(40).png)
 
+## Create Object
+
+![image alt](https://github.com/harshbatham10/AWS-Project-1-S3-static-website/blob/85ebfc9cd38d30e1a09471f16e190ae01271c65b/Screenshot%20(41).png)
+
 ## ☁️ AWS Services Used
 
 - Amazon S3
