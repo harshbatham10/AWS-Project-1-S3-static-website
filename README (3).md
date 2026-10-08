@@ -90,7 +90,11 @@ This project shows how to host a static website (HTML + CSS) without any server,
 | Website endpoint | 
 | Live website |
 
----
+--- 
+
+## Create Bucket 
+
+![image alt](https://github.com/harshbatham10/AWS-Project-1-S3-static-website/blob/761b4386bd4ce4a43a88a1d88566afe28a98c91b/Screenshot%20(40).png)
 
 ## ☁️ AWS Services Used
 
